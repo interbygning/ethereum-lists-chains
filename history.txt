@@ -11,3 +11,4 @@
 2025-05-29 02:53:55 minor refactor
 2025-04-17 09:55:29 style improvements
 2025-11-08 07:17:39 security patch
+2025-02-26 00:52:10 remove legacy code
